@@ -8,7 +8,7 @@ Is a console application contains Exchange Rate Example , and i Implemented the 
 
 - [Builder Pattern](#Builder-Pattern) 
 
-- [Builder Pattern Goals](#Builder-Pattern-Goals)
+- [Builder Pattern Goal](#Builder-Pattern-Goal)
   
 - [Builder Pattern Key Components](#Builder-Pattern-Key-Components)
 
