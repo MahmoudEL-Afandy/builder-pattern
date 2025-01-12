@@ -4,21 +4,21 @@ Is a console application contains Exchange Rate Example , and i Implemented the 
 
 ## Table of Contents 
 
-- [Design Pattern](#DesignPattern) 
+- [Design Pattern](#Design-Pattern) 
 
 - [Builder Pattern](#Builder-Pattern) 
 
-- [Builder Pattern Goals](#SP-Goals)
+- [Builder Pattern Goals](#Builder-Pattern-Goals)
   
-- [Builder Pattern Key Components](#SP-Key-Components)
+- [Builder Pattern Key Components](#Builder-Pattern-Key-Components)
 
-- [Builder Pattern Implementation](#SP-Implementation)
+- [Builder Pattern Implementation](#Builder-Pattern-Implementation)
 
-- [Builder pattern Use Cases:](#SP-key-details)
+- [Builder pattern Use Cases:](#Builder-pattern-Use-Cases)
   
-- [Builder pattern Benefits:](#SP-key-details)
+- [Builder pattern Benefits:](#Builder-pattern-Benefits)
 
-- [Builder pattern Drawbacks:](#SP-key-details)
+- [Builder pattern Drawbacks:](#Builder-pattern-Drawbacks)
 
 - [Summary](#Summary)
 
