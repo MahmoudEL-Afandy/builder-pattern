@@ -1,0 +1,14 @@
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.exe
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.deps.json
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.runtimeconfig.json
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.dll
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.pdb
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfoInputs.cache
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfo.cs
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.csproj.CoreCompileInputs.cache
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.dll
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern.dll
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.genruntimeconfig.cache
+E:\my studies\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll
