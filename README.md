@@ -1,6 +1,6 @@
 # Implementing Builder Design Pattern 
 
-Is a console application contains Exchange Rate Example , and i Implemented the builder pattern on this example .
+Is a console application contains Employee Salary Calculator Example , and i Implemented the builder pattern on this example .
 
 ## Table of Contents 
 
